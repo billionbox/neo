@@ -1,1 +1,3 @@
 # neo
+
+Core html boilerplate.
